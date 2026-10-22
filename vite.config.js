@@ -20,7 +20,7 @@ export default defineConfig({
       },
       server: { entry: "./server.js" },
     }),
-    nitro({ preset: "node-server" }),
+    nitro(),
     react(),
   ],
 });

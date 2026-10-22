@@ -1,0 +1,34 @@
+HATIM ALI
+Software Developer | Angular • C# • .NET
+Bhopal, Madhya Pradesh, India | +91 7049616553 | ahatimali82@gmail.com
+LinkedIn: www.linkedin.com/in/hatim-ali-54588b281 | GitHub: github.com/Ha72ali
+
+PROFESSIONAL SUMMARY
+Software Developer with 2 years of experience building and improving web applications, with a focus on Angular frontend development and C#/.NET application development. Experienced in responsive UI implementation, REST API integration, dynamic dashboards, data visualization, and troubleshooting frontend issues. Focused on clean, maintainable code, performance, usability, and reliable delivery.
+
+TECHNICAL SKILLS
+Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, responsive UI
+Backend: C#, .NET, ASP.NET Core, REST API development/integration
+Database & Data: SQL Server, Entity Framework Core, JSON, GeoJSON
+Mapping & Visualization: ArcGIS/Esri, OpenStreetMap, GIS route layers, dashboard KPIs
+Tools & Practices: Git, API debugging, browser developer tools, testing, technical documentation
+
+PROFESSIONAL EXPERIENCE
+Software Developer — Neotec (05/2025 – Present)
+- Develop and enhance web application interfaces using Angular and TypeScript, with attention to responsiveness, readability, and maintainability.
+- Work with C#/.NET application code and REST APIs to support reliable data flow between frontend components and backend services.
+- Integrate API-driven data into dashboard views, filters, KPI summaries, and map visualizations.
+- Investigate UI and integration issues, validate API responses, and improve loading and rendering behavior.
+
+SELECTED PROJECT
+Fiber Rollout Dashboard & GIS Map Integration
+Integrated and refined a fiber-rollout dashboard map using Angular, dynamic GeoJSON route data, and ArcGIS/Esri and OpenStreetMap basemaps.
+- Worked with contractor, ring, project, and phase filters to display relevant route data and interactive map layers.
+- Improved map usability through route highlighting, clickable features, layer controls, loading/error handling, and dashboard-oriented data presentation.
+
+EDUCATION
+B.Tech — Pursuing, 3rd Year
+Higher Secondary — 2024
+
+CERTIFICATIONS & ACHIEVEMENTS
+Python Programming Course • Ethical Hacking (CNSP, CISCO, CCEP, CSSO) • Digital Forensics & Incident Investigation • Certified Red Team Operations Management (CRTOM) • Capture The Flag (CTF) Practical Training • Winner — CTF Competition (Logic Arena – Sistec GN)

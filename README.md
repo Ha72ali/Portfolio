@@ -1,6 +1,6 @@
 # Hatim Ali — Portfolio
 
-Personal portfolio built with TanStack Start, React, TypeScript, and Tailwind CSS.
+Personal portfolio built with TanStack Start, React, JavaScript, and Tailwind CSS.
 
 ## Development
 
